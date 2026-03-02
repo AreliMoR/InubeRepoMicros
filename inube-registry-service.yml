@@ -23,6 +23,6 @@ eureka:
 
 logging:
   level:
-    org.springframework.cloud.config: DEGUB
+    org.springframework.cloud.config: DEBUG
     org.springframework.security: DEBUG
     org.springframework.web.reactive.function.client.ExchangeFunction: DEBUG
