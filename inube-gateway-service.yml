@@ -48,7 +48,7 @@ spring:
 
           filters:
 
-            - AuthenticationFilter
+            - AuthentificationFilter
 
         - id: books-service
 
@@ -60,7 +60,7 @@ spring:
 
           filters:
 
-            - AuthenticationFilter
+            - AuthentificationFilter
  
             
 
